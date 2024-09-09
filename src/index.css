@@ -9,3 +9,7 @@ nav a {
 .products a {
   margin: 2rem;
 }
+.users {
+  display: flex;
+  flex-direction: column;
+}

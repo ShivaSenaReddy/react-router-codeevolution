@@ -15,7 +15,8 @@ function Navbar() {
                 to='/'>Home</NavLink>
             <NavLink style={NavStyles} to='about'>About</NavLink>
             <NavLink style={NavStyles} to='products'>Products</NavLink>
-        </nav>
+            <NavLink style={NavStyles} to='users'>Users</NavLink>
+         </nav>
     )
 }
 
